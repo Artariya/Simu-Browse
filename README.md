@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/2914684a-49ef-4e78-9f9c-4dc220f37ca6)
 ![image](https://github.com/user-attachments/assets/e8e39a6f-c86a-4418-b2b5-8303d2c6e7df)
 
-# MobileSimBrowser
-MobileSimBrowser is a lightweight and powerful browser designed to simulate mobile devices like iPhones. This tool is perfect for developers, testers, and anyone who needs to interact with web applications in a mobile-like environment directly on their desktop.
+# Simu Browse
+Simu Browse is a lightweight and powerful browser designed to simulate mobile devices like iPhones. This tool is perfect for developers, testers, and anyone who needs to interact with web applications in a mobile-like environment directly on their desktop.
 
 ## Features
 - #### Mobile Screen Simulation
