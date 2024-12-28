@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Simu Browse")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simu Browse is a lightweight browser that simulates mobile devices like iPhones, adjusts screen size, emulates mobile user agents, and supports touch interactions for testing web apps.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Artariya")]
 [assembly: AssemblyProduct("Simu Browse")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
